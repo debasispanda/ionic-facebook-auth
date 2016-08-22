@@ -1,0 +1,11 @@
+/* Empty. Add your own CSS if you like */
+.login-header{
+	margin-top: 50px;
+}
+.login-label{
+	margin-top: 50px;
+	margin-bottom: 30px; 
+}
+[data-page="login"]{
+	background: #EB9532;
+}
